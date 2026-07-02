@@ -1,0 +1,41 @@
+{
+  "id": "mod-big-data-spark",
+  "slug": "module-big-data-spark",
+  "title": "大数据与Spark基础",
+  "subtitle": "面向数据工程大数据入门和AI数据平台学习者",
+  "description": "面向数据工程大数据入门和AI数据平台学习者的HadoopHDFSMapReduceHiveSparkRDDDataFrameSparkSQL批处理性能优化与项目实战。",
+  "version": "2.0.0",
+  "license": "MIT",
+  "authors": [
+    "OpenSkill Community"
+  ],
+  "tags": [
+    "大数据",
+    "Spark",
+    "Hadoop",
+    "HDFS",
+    "Hive",
+    "Spark SQL",
+    "PySpark",
+    "数据平台"
+  ],
+  "estimatedHours": 180,
+  "difficulty": "intermediate",
+  "updatedAt": "2026-07-02T12:00:00.000Z",
+  "coverEmoji": "⚡",
+  "repoUrl": "https://github.com/openskill-galaxy/module-big-data-spark",
+  "portalUrl": "https://openskill-galaxy.github.io/",
+  "status": "stable",
+  "stats": {
+    "courses": 14,
+    "lessons": 182,
+    "knowledgePoints": 735,
+    "questions": 3700,
+    "cases": 260,
+    "exams": 100,
+    "routes": 35,
+    "glossary": 360,
+    "faqs": 210,
+    "tags": 105
+  }
+}

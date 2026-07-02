@@ -1,0 +1,3602 @@
+[
+  {
+    "id": "sp-glossary-001",
+    "term": "Hadoop",
+    "definition": "Hadoop说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-002",
+    "term": "HDFS",
+    "definition": "HDFS说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-003",
+    "term": "MapReduce",
+    "definition": "MapReduce说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-004",
+    "term": "YARN",
+    "definition": "YARN说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-005",
+    "term": "Hive",
+    "definition": "Hive说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-006",
+    "term": "Spark",
+    "definition": "Spark说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-007",
+    "term": "RDD",
+    "definition": "RDD说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-008",
+    "term": "DataFrame",
+    "definition": "DataFrame说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-009",
+    "term": "SparkSQL",
+    "definition": "SparkSQL说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-010",
+    "term": "分区",
+    "definition": "分区说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-011",
+    "term": "缓存",
+    "definition": "缓存说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-012",
+    "term": "Shuffle",
+    "definition": "Shuffle说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-013",
+    "term": "DAG",
+    "definition": "DAG说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-014",
+    "term": "数据倾斜",
+    "definition": "数据倾斜说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-015",
+    "term": "广播Join",
+    "definition": "广播Join说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-016",
+    "term": "Spark概念15",
+    "definition": "Spark概念15说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-017",
+    "term": "Spark概念16",
+    "definition": "Spark概念16说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-018",
+    "term": "Spark概念17",
+    "definition": "Spark概念17说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-019",
+    "term": "Spark概念18",
+    "definition": "Spark概念18说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-020",
+    "term": "Spark概念19",
+    "definition": "Spark概念19说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-021",
+    "term": "Spark概念20",
+    "definition": "Spark概念20说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-022",
+    "term": "Spark概念21",
+    "definition": "Spark概念21说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-023",
+    "term": "Spark概念22",
+    "definition": "Spark概念22说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-024",
+    "term": "Spark概念23",
+    "definition": "Spark概念23说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-025",
+    "term": "Spark概念24",
+    "definition": "Spark概念24说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-026",
+    "term": "Spark概念25",
+    "definition": "Spark概念25说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-027",
+    "term": "Spark概念26",
+    "definition": "Spark概念26说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-028",
+    "term": "Spark概念27",
+    "definition": "Spark概念27说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-029",
+    "term": "Spark概念28",
+    "definition": "Spark概念28说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-030",
+    "term": "Spark概念29",
+    "definition": "Spark概念29说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-031",
+    "term": "Spark概念30",
+    "definition": "Spark概念30说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-032",
+    "term": "Spark概念31",
+    "definition": "Spark概念31说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-033",
+    "term": "Spark概念32",
+    "definition": "Spark概念32说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-034",
+    "term": "Spark概念33",
+    "definition": "Spark概念33说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-035",
+    "term": "Spark概念34",
+    "definition": "Spark概念34说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-036",
+    "term": "Spark概念35",
+    "definition": "Spark概念35说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-037",
+    "term": "Spark概念36",
+    "definition": "Spark概念36说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-038",
+    "term": "Spark概念37",
+    "definition": "Spark概念37说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-039",
+    "term": "Spark概念38",
+    "definition": "Spark概念38说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-040",
+    "term": "Spark概念39",
+    "definition": "Spark概念39说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-041",
+    "term": "Spark概念40",
+    "definition": "Spark概念40说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-042",
+    "term": "Spark概念41",
+    "definition": "Spark概念41说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-043",
+    "term": "Spark概念42",
+    "definition": "Spark概念42说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-044",
+    "term": "Spark概念43",
+    "definition": "Spark概念43说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-045",
+    "term": "Spark概念44",
+    "definition": "Spark概念44说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-046",
+    "term": "Spark概念45",
+    "definition": "Spark概念45说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-047",
+    "term": "Spark概念46",
+    "definition": "Spark概念46说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-048",
+    "term": "Spark概念47",
+    "definition": "Spark概念47说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-049",
+    "term": "Spark概念48",
+    "definition": "Spark概念48说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-050",
+    "term": "Spark概念49",
+    "definition": "Spark概念49说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-051",
+    "term": "Spark概念50",
+    "definition": "Spark概念50说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-052",
+    "term": "Spark概念51",
+    "definition": "Spark概念51说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-053",
+    "term": "Spark概念52",
+    "definition": "Spark概念52说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-054",
+    "term": "Spark概念53",
+    "definition": "Spark概念53说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-055",
+    "term": "Spark概念54",
+    "definition": "Spark概念54说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-056",
+    "term": "Spark概念55",
+    "definition": "Spark概念55说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-057",
+    "term": "Spark概念56",
+    "definition": "Spark概念56说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-058",
+    "term": "Spark概念57",
+    "definition": "Spark概念57说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-059",
+    "term": "Spark概念58",
+    "definition": "Spark概念58说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-060",
+    "term": "Spark概念59",
+    "definition": "Spark概念59说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-061",
+    "term": "Spark概念60",
+    "definition": "Spark概念60说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-062",
+    "term": "Spark概念61",
+    "definition": "Spark概念61说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-063",
+    "term": "Spark概念62",
+    "definition": "Spark概念62说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-064",
+    "term": "Spark概念63",
+    "definition": "Spark概念63说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-065",
+    "term": "Spark概念64",
+    "definition": "Spark概念64说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-066",
+    "term": "Spark概念65",
+    "definition": "Spark概念65说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-067",
+    "term": "Spark概念66",
+    "definition": "Spark概念66说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-068",
+    "term": "Spark概念67",
+    "definition": "Spark概念67说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-069",
+    "term": "Spark概念68",
+    "definition": "Spark概念68说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-070",
+    "term": "Spark概念69",
+    "definition": "Spark概念69说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-071",
+    "term": "Spark概念70",
+    "definition": "Spark概念70说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-072",
+    "term": "Spark概念71",
+    "definition": "Spark概念71说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-073",
+    "term": "Spark概念72",
+    "definition": "Spark概念72说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-074",
+    "term": "Spark概念73",
+    "definition": "Spark概念73说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-075",
+    "term": "Spark概念74",
+    "definition": "Spark概念74说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-076",
+    "term": "Spark概念75",
+    "definition": "Spark概念75说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-077",
+    "term": "Spark概念76",
+    "definition": "Spark概念76说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-078",
+    "term": "Spark概念77",
+    "definition": "Spark概念77说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-079",
+    "term": "Spark概念78",
+    "definition": "Spark概念78说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-080",
+    "term": "Spark概念79",
+    "definition": "Spark概念79说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-081",
+    "term": "Spark概念80",
+    "definition": "Spark概念80说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-082",
+    "term": "Spark概念81",
+    "definition": "Spark概念81说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-083",
+    "term": "Spark概念82",
+    "definition": "Spark概念82说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-084",
+    "term": "Spark概念83",
+    "definition": "Spark概念83说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-085",
+    "term": "Spark概念84",
+    "definition": "Spark概念84说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-086",
+    "term": "Spark概念85",
+    "definition": "Spark概念85说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-087",
+    "term": "Spark概念86",
+    "definition": "Spark概念86说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-088",
+    "term": "Spark概念87",
+    "definition": "Spark概念87说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-089",
+    "term": "Spark概念88",
+    "definition": "Spark概念88说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-090",
+    "term": "Spark概念89",
+    "definition": "Spark概念89说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-091",
+    "term": "Spark概念90",
+    "definition": "Spark概念90说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-092",
+    "term": "Spark概念91",
+    "definition": "Spark概念91说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-093",
+    "term": "Spark概念92",
+    "definition": "Spark概念92说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-094",
+    "term": "Spark概念93",
+    "definition": "Spark概念93说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-095",
+    "term": "Spark概念94",
+    "definition": "Spark概念94说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-096",
+    "term": "Spark概念95",
+    "definition": "Spark概念95说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-097",
+    "term": "Spark概念96",
+    "definition": "Spark概念96说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-098",
+    "term": "Spark概念97",
+    "definition": "Spark概念97说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-099",
+    "term": "Spark概念98",
+    "definition": "Spark概念98说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-100",
+    "term": "Spark概念99",
+    "definition": "Spark概念99说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-101",
+    "term": "Spark概念100",
+    "definition": "Spark概念100说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-102",
+    "term": "Spark概念101",
+    "definition": "Spark概念101说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-103",
+    "term": "Spark概念102",
+    "definition": "Spark概念102说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-104",
+    "term": "Spark概念103",
+    "definition": "Spark概念103说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-105",
+    "term": "Spark概念104",
+    "definition": "Spark概念104说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-106",
+    "term": "Spark概念105",
+    "definition": "Spark概念105说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-107",
+    "term": "Spark概念106",
+    "definition": "Spark概念106说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-108",
+    "term": "Spark概念107",
+    "definition": "Spark概念107说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-109",
+    "term": "Spark概念108",
+    "definition": "Spark概念108说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-110",
+    "term": "Spark概念109",
+    "definition": "Spark概念109说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-111",
+    "term": "Spark概念110",
+    "definition": "Spark概念110说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-112",
+    "term": "Spark概念111",
+    "definition": "Spark概念111说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-113",
+    "term": "Spark概念112",
+    "definition": "Spark概念112说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-114",
+    "term": "Spark概念113",
+    "definition": "Spark概念113说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-115",
+    "term": "Spark概念114",
+    "definition": "Spark概念114说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-116",
+    "term": "Spark概念115",
+    "definition": "Spark概念115说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-117",
+    "term": "Spark概念116",
+    "definition": "Spark概念116说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-118",
+    "term": "Spark概念117",
+    "definition": "Spark概念117说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-119",
+    "term": "Spark概念118",
+    "definition": "Spark概念118说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-120",
+    "term": "Spark概念119",
+    "definition": "Spark概念119说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-121",
+    "term": "Spark概念120",
+    "definition": "Spark概念120说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-122",
+    "term": "Spark概念121",
+    "definition": "Spark概念121说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-123",
+    "term": "Spark概念122",
+    "definition": "Spark概念122说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-124",
+    "term": "Spark概念123",
+    "definition": "Spark概念123说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-125",
+    "term": "Spark概念124",
+    "definition": "Spark概念124说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-126",
+    "term": "Spark概念125",
+    "definition": "Spark概念125说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-127",
+    "term": "Spark概念126",
+    "definition": "Spark概念126说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-128",
+    "term": "Spark概念127",
+    "definition": "Spark概念127说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-129",
+    "term": "Spark概念128",
+    "definition": "Spark概念128说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-130",
+    "term": "Spark概念129",
+    "definition": "Spark概念129说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-131",
+    "term": "Spark概念130",
+    "definition": "Spark概念130说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-132",
+    "term": "Spark概念131",
+    "definition": "Spark概念131说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-133",
+    "term": "Spark概念132",
+    "definition": "Spark概念132说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-134",
+    "term": "Spark概念133",
+    "definition": "Spark概念133说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-135",
+    "term": "Spark概念134",
+    "definition": "Spark概念134说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-136",
+    "term": "Spark概念135",
+    "definition": "Spark概念135说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-137",
+    "term": "Spark概念136",
+    "definition": "Spark概念136说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-138",
+    "term": "Spark概念137",
+    "definition": "Spark概念137说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-139",
+    "term": "Spark概念138",
+    "definition": "Spark概念138说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-140",
+    "term": "Spark概念139",
+    "definition": "Spark概念139说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-141",
+    "term": "Spark概念140",
+    "definition": "Spark概念140说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-142",
+    "term": "Spark概念141",
+    "definition": "Spark概念141说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-143",
+    "term": "Spark概念142",
+    "definition": "Spark概念142说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-144",
+    "term": "Spark概念143",
+    "definition": "Spark概念143说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-145",
+    "term": "Spark概念144",
+    "definition": "Spark概念144说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-146",
+    "term": "Spark概念145",
+    "definition": "Spark概念145说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-147",
+    "term": "Spark概念146",
+    "definition": "Spark概念146说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-148",
+    "term": "Spark概念147",
+    "definition": "Spark概念147说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-149",
+    "term": "Spark概念148",
+    "definition": "Spark概念148说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-150",
+    "term": "Spark概念149",
+    "definition": "Spark概念149说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-151",
+    "term": "Spark概念150",
+    "definition": "Spark概念150说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-152",
+    "term": "Spark概念151",
+    "definition": "Spark概念151说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-153",
+    "term": "Spark概念152",
+    "definition": "Spark概念152说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-154",
+    "term": "Spark概念153",
+    "definition": "Spark概念153说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-155",
+    "term": "Spark概念154",
+    "definition": "Spark概念154说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-156",
+    "term": "Spark概念155",
+    "definition": "Spark概念155说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-157",
+    "term": "Spark概念156",
+    "definition": "Spark概念156说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-158",
+    "term": "Spark概念157",
+    "definition": "Spark概念157说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-159",
+    "term": "Spark概念158",
+    "definition": "Spark概念158说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-160",
+    "term": "Spark概念159",
+    "definition": "Spark概念159说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-161",
+    "term": "Spark概念160",
+    "definition": "Spark概念160说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-162",
+    "term": "Spark概念161",
+    "definition": "Spark概念161说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-163",
+    "term": "Spark概念162",
+    "definition": "Spark概念162说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-164",
+    "term": "Spark概念163",
+    "definition": "Spark概念163说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-165",
+    "term": "Spark概念164",
+    "definition": "Spark概念164说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-166",
+    "term": "Spark概念165",
+    "definition": "Spark概念165说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-167",
+    "term": "Spark概念166",
+    "definition": "Spark概念166说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-168",
+    "term": "Spark概念167",
+    "definition": "Spark概念167说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-169",
+    "term": "Spark概念168",
+    "definition": "Spark概念168说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-170",
+    "term": "Spark概念169",
+    "definition": "Spark概念169说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-171",
+    "term": "Spark概念170",
+    "definition": "Spark概念170说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-172",
+    "term": "Spark概念171",
+    "definition": "Spark概念171说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-173",
+    "term": "Spark概念172",
+    "definition": "Spark概念172说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-174",
+    "term": "Spark概念173",
+    "definition": "Spark概念173说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-175",
+    "term": "Spark概念174",
+    "definition": "Spark概念174说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-176",
+    "term": "Spark概念175",
+    "definition": "Spark概念175说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-177",
+    "term": "Spark概念176",
+    "definition": "Spark概念176说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-178",
+    "term": "Spark概念177",
+    "definition": "Spark概念177说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-179",
+    "term": "Spark概念178",
+    "definition": "Spark概念178说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-180",
+    "term": "Spark概念179",
+    "definition": "Spark概念179说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-181",
+    "term": "Spark概念180",
+    "definition": "Spark概念180说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-182",
+    "term": "Spark概念181",
+    "definition": "Spark概念181说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-183",
+    "term": "Spark概念182",
+    "definition": "Spark概念182说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-184",
+    "term": "Spark概念183",
+    "definition": "Spark概念183说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-185",
+    "term": "Spark概念184",
+    "definition": "Spark概念184说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-186",
+    "term": "Spark概念185",
+    "definition": "Spark概念185说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-187",
+    "term": "Spark概念186",
+    "definition": "Spark概念186说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-188",
+    "term": "Spark概念187",
+    "definition": "Spark概念187说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-189",
+    "term": "Spark概念188",
+    "definition": "Spark概念188说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-190",
+    "term": "Spark概念189",
+    "definition": "Spark概念189说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-191",
+    "term": "Spark概念190",
+    "definition": "Spark概念190说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-192",
+    "term": "Spark概念191",
+    "definition": "Spark概念191说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-193",
+    "term": "Spark概念192",
+    "definition": "Spark概念192说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-194",
+    "term": "Spark概念193",
+    "definition": "Spark概念193说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-195",
+    "term": "Spark概念194",
+    "definition": "Spark概念194说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-196",
+    "term": "Spark概念195",
+    "definition": "Spark概念195说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-197",
+    "term": "Spark概念196",
+    "definition": "Spark概念196说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-198",
+    "term": "Spark概念197",
+    "definition": "Spark概念197说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-199",
+    "term": "Spark概念198",
+    "definition": "Spark概念198说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-200",
+    "term": "Spark概念199",
+    "definition": "Spark概念199说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-201",
+    "term": "Spark概念200",
+    "definition": "Spark概念200说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-202",
+    "term": "Spark概念201",
+    "definition": "Spark概念201说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-203",
+    "term": "Spark概念202",
+    "definition": "Spark概念202说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-204",
+    "term": "Spark概念203",
+    "definition": "Spark概念203说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-205",
+    "term": "Spark概念204",
+    "definition": "Spark概念204说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-206",
+    "term": "Spark概念205",
+    "definition": "Spark概念205说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-207",
+    "term": "Spark概念206",
+    "definition": "Spark概念206说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-208",
+    "term": "Spark概念207",
+    "definition": "Spark概念207说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-209",
+    "term": "Spark概念208",
+    "definition": "Spark概念208说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-210",
+    "term": "Spark概念209",
+    "definition": "Spark概念209说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-211",
+    "term": "Spark概念210",
+    "definition": "Spark概念210说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-212",
+    "term": "Spark概念211",
+    "definition": "Spark概念211说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-213",
+    "term": "Spark概念212",
+    "definition": "Spark概念212说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-214",
+    "term": "Spark概念213",
+    "definition": "Spark概念213说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-215",
+    "term": "Spark概念214",
+    "definition": "Spark概念214说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-216",
+    "term": "Spark概念215",
+    "definition": "Spark概念215说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-217",
+    "term": "Spark概念216",
+    "definition": "Spark概念216说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-218",
+    "term": "Spark概念217",
+    "definition": "Spark概念217说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-219",
+    "term": "Spark概念218",
+    "definition": "Spark概念218说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-220",
+    "term": "Spark概念219",
+    "definition": "Spark概念219说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-221",
+    "term": "Spark概念220",
+    "definition": "Spark概念220说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-222",
+    "term": "Spark概念221",
+    "definition": "Spark概念221说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-223",
+    "term": "Spark概念222",
+    "definition": "Spark概念222说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-224",
+    "term": "Spark概念223",
+    "definition": "Spark概念223说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-225",
+    "term": "Spark概念224",
+    "definition": "Spark概念224说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-226",
+    "term": "Spark概念225",
+    "definition": "Spark概念225说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-227",
+    "term": "Spark概念226",
+    "definition": "Spark概念226说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-228",
+    "term": "Spark概念227",
+    "definition": "Spark概念227说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-229",
+    "term": "Spark概念228",
+    "definition": "Spark概念228说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-230",
+    "term": "Spark概念229",
+    "definition": "Spark概念229说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-231",
+    "term": "Spark概念230",
+    "definition": "Spark概念230说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-232",
+    "term": "Spark概念231",
+    "definition": "Spark概念231说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-233",
+    "term": "Spark概念232",
+    "definition": "Spark概念232说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-234",
+    "term": "Spark概念233",
+    "definition": "Spark概念233说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-235",
+    "term": "Spark概念234",
+    "definition": "Spark概念234说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-236",
+    "term": "Spark概念235",
+    "definition": "Spark概念235说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-237",
+    "term": "Spark概念236",
+    "definition": "Spark概念236说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-238",
+    "term": "Spark概念237",
+    "definition": "Spark概念237说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-239",
+    "term": "Spark概念238",
+    "definition": "Spark概念238说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-240",
+    "term": "Spark概念239",
+    "definition": "Spark概念239说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-241",
+    "term": "Spark概念240",
+    "definition": "Spark概念240说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-242",
+    "term": "Spark概念241",
+    "definition": "Spark概念241说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-243",
+    "term": "Spark概念242",
+    "definition": "Spark概念242说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-244",
+    "term": "Spark概念243",
+    "definition": "Spark概念243说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-245",
+    "term": "Spark概念244",
+    "definition": "Spark概念244说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-246",
+    "term": "Spark概念245",
+    "definition": "Spark概念245说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-247",
+    "term": "Spark概念246",
+    "definition": "Spark概念246说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-248",
+    "term": "Spark概念247",
+    "definition": "Spark概念247说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-249",
+    "term": "Spark概念248",
+    "definition": "Spark概念248说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-250",
+    "term": "Spark概念249",
+    "definition": "Spark概念249说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-251",
+    "term": "Spark概念250",
+    "definition": "Spark概念250说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-252",
+    "term": "Spark概念251",
+    "definition": "Spark概念251说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-253",
+    "term": "Spark概念252",
+    "definition": "Spark概念252说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-254",
+    "term": "Spark概念253",
+    "definition": "Spark概念253说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-255",
+    "term": "Spark概念254",
+    "definition": "Spark概念254说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-256",
+    "term": "Spark概念255",
+    "definition": "Spark概念255说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-257",
+    "term": "Spark概念256",
+    "definition": "Spark概念256说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-258",
+    "term": "Spark概念257",
+    "definition": "Spark概念257说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-259",
+    "term": "Spark概念258",
+    "definition": "Spark概念258说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-260",
+    "term": "Spark概念259",
+    "definition": "Spark概念259说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-261",
+    "term": "Spark概念260",
+    "definition": "Spark概念260说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-262",
+    "term": "Spark概念261",
+    "definition": "Spark概念261说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-263",
+    "term": "Spark概念262",
+    "definition": "Spark概念262说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-264",
+    "term": "Spark概念263",
+    "definition": "Spark概念263说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-265",
+    "term": "Spark概念264",
+    "definition": "Spark概念264说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-266",
+    "term": "Spark概念265",
+    "definition": "Spark概念265说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-267",
+    "term": "Spark概念266",
+    "definition": "Spark概念266说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-268",
+    "term": "Spark概念267",
+    "definition": "Spark概念267说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-269",
+    "term": "Spark概念268",
+    "definition": "Spark概念268说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-270",
+    "term": "Spark概念269",
+    "definition": "Spark概念269说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-271",
+    "term": "Spark概念270",
+    "definition": "Spark概念270说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-272",
+    "term": "Spark概念271",
+    "definition": "Spark概念271说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-273",
+    "term": "Spark概念272",
+    "definition": "Spark概念272说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-274",
+    "term": "Spark概念273",
+    "definition": "Spark概念273说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-275",
+    "term": "Spark概念274",
+    "definition": "Spark概念274说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-276",
+    "term": "Spark概念275",
+    "definition": "Spark概念275说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-277",
+    "term": "Spark概念276",
+    "definition": "Spark概念276说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-278",
+    "term": "Spark概念277",
+    "definition": "Spark概念277说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-279",
+    "term": "Spark概念278",
+    "definition": "Spark概念278说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-280",
+    "term": "Spark概念279",
+    "definition": "Spark概念279说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-281",
+    "term": "Spark概念280",
+    "definition": "Spark概念280说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-282",
+    "term": "Spark概念281",
+    "definition": "Spark概念281说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-283",
+    "term": "Spark概念282",
+    "definition": "Spark概念282说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-284",
+    "term": "Spark概念283",
+    "definition": "Spark概念283说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-285",
+    "term": "Spark概念284",
+    "definition": "Spark概念284说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-286",
+    "term": "Spark概念285",
+    "definition": "Spark概念285说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-287",
+    "term": "Spark概念286",
+    "definition": "Spark概念286说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-288",
+    "term": "Spark概念287",
+    "definition": "Spark概念287说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-289",
+    "term": "Spark概念288",
+    "definition": "Spark概念288说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-290",
+    "term": "Spark概念289",
+    "definition": "Spark概念289说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-291",
+    "term": "Spark概念290",
+    "definition": "Spark概念290说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-292",
+    "term": "Spark概念291",
+    "definition": "Spark概念291说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-293",
+    "term": "Spark概念292",
+    "definition": "Spark概念292说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-294",
+    "term": "Spark概念293",
+    "definition": "Spark概念293说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-295",
+    "term": "Spark概念294",
+    "definition": "Spark概念294说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-296",
+    "term": "Spark概念295",
+    "definition": "Spark概念295说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-297",
+    "term": "Spark概念296",
+    "definition": "Spark概念296说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-298",
+    "term": "Spark概念297",
+    "definition": "Spark概念297说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-299",
+    "term": "Spark概念298",
+    "definition": "Spark概念298说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-300",
+    "term": "Spark概念299",
+    "definition": "Spark概念299说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-301",
+    "term": "Spark概念300",
+    "definition": "Spark概念300说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-302",
+    "term": "Spark概念301",
+    "definition": "Spark概念301说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-303",
+    "term": "Spark概念302",
+    "definition": "Spark概念302说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-304",
+    "term": "Spark概念303",
+    "definition": "Spark概念303说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-305",
+    "term": "Spark概念304",
+    "definition": "Spark概念304说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-306",
+    "term": "Spark概念305",
+    "definition": "Spark概念305说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-307",
+    "term": "Spark概念306",
+    "definition": "Spark概念306说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-308",
+    "term": "Spark概念307",
+    "definition": "Spark概念307说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-309",
+    "term": "Spark概念308",
+    "definition": "Spark概念308说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-310",
+    "term": "Spark概念309",
+    "definition": "Spark概念309说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-311",
+    "term": "Spark概念310",
+    "definition": "Spark概念310说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-312",
+    "term": "Spark概念311",
+    "definition": "Spark概念311说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-313",
+    "term": "Spark概念312",
+    "definition": "Spark概念312说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-314",
+    "term": "Spark概念313",
+    "definition": "Spark概念313说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-315",
+    "term": "Spark概念314",
+    "definition": "Spark概念314说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-316",
+    "term": "Spark概念315",
+    "definition": "Spark概念315说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-317",
+    "term": "Spark概念316",
+    "definition": "Spark概念316说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-318",
+    "term": "Spark概念317",
+    "definition": "Spark概念317说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-319",
+    "term": "Spark概念318",
+    "definition": "Spark概念318说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-320",
+    "term": "Spark概念319",
+    "definition": "Spark概念319说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-321",
+    "term": "Spark概念320",
+    "definition": "Spark概念320说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-322",
+    "term": "Spark概念321",
+    "definition": "Spark概念321说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-323",
+    "term": "Spark概念322",
+    "definition": "Spark概念322说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-324",
+    "term": "Spark概念323",
+    "definition": "Spark概念323说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-325",
+    "term": "Spark概念324",
+    "definition": "Spark概念324说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-326",
+    "term": "Spark概念325",
+    "definition": "Spark概念325说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-327",
+    "term": "Spark概念326",
+    "definition": "Spark概念326说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-328",
+    "term": "Spark概念327",
+    "definition": "Spark概念327说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-329",
+    "term": "Spark概念328",
+    "definition": "Spark概念328说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-330",
+    "term": "Spark概念329",
+    "definition": "Spark概念329说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-331",
+    "term": "Spark概念330",
+    "definition": "Spark概念330说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-332",
+    "term": "Spark概念331",
+    "definition": "Spark概念331说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-333",
+    "term": "Spark概念332",
+    "definition": "Spark概念332说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-334",
+    "term": "Spark概念333",
+    "definition": "Spark概念333说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-335",
+    "term": "Spark概念334",
+    "definition": "Spark概念334说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-336",
+    "term": "Spark概念335",
+    "definition": "Spark概念335说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-337",
+    "term": "Spark概念336",
+    "definition": "Spark概念336说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-338",
+    "term": "Spark概念337",
+    "definition": "Spark概念337说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-339",
+    "term": "Spark概念338",
+    "definition": "Spark概念338说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-340",
+    "term": "Spark概念339",
+    "definition": "Spark概念339说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-341",
+    "term": "Spark概念340",
+    "definition": "Spark概念340说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-342",
+    "term": "Spark概念341",
+    "definition": "Spark概念341说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-343",
+    "term": "Spark概念342",
+    "definition": "Spark概念342说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-344",
+    "term": "Spark概念343",
+    "definition": "Spark概念343说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-345",
+    "term": "Spark概念344",
+    "definition": "Spark概念344说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-346",
+    "term": "Spark概念345",
+    "definition": "Spark概念345说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-347",
+    "term": "Spark概念346",
+    "definition": "Spark概念346说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-348",
+    "term": "Spark概念347",
+    "definition": "Spark概念347说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-349",
+    "term": "Spark概念348",
+    "definition": "Spark概念348说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-350",
+    "term": "Spark概念349",
+    "definition": "Spark概念349说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-351",
+    "term": "Spark概念350",
+    "definition": "Spark概念350说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-352",
+    "term": "Spark概念351",
+    "definition": "Spark概念351说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-353",
+    "term": "Spark概念352",
+    "definition": "Spark概念352说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-354",
+    "term": "Spark概念353",
+    "definition": "Spark概念353说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-355",
+    "term": "Spark概念354",
+    "definition": "Spark概念354说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-356",
+    "term": "Spark概念355",
+    "definition": "Spark概念355说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-357",
+    "term": "Spark概念356",
+    "definition": "Spark概念356说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-358",
+    "term": "Spark概念357",
+    "definition": "Spark概念357说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-359",
+    "term": "Spark概念358",
+    "definition": "Spark概念358说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-glossary-360",
+    "term": "Spark概念359",
+    "definition": "Spark概念359说明",
+    "category": "Spark",
+    "tags": [
+      "Spark"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  }
+]

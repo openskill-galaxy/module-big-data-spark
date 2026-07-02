@@ -1,0 +1,520 @@
+[
+  {
+    "id": "sp-course-01",
+    "order": 1,
+    "slug": "BigData入门",
+    "title": "大数据入门与学习路线",
+    "description": "大数据背景、技术栈、学习路线。",
+    "estimatedHours": 4,
+    "difficulty": "easy",
+    "tags": [
+      "大数据入门与学习路线"
+    ],
+    "lessonIds": [
+      "sp-lesson-001",
+      "sp-lesson-002",
+      "sp-lesson-003",
+      "sp-lesson-004",
+      "sp-lesson-005",
+      "sp-lesson-006",
+      "sp-lesson-007",
+      "sp-lesson-008",
+      "sp-lesson-009",
+      "sp-lesson-010",
+      "sp-lesson-011",
+      "sp-lesson-012",
+      "sp-lesson-013"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解大数据架构",
+      "能用Hive/Spark",
+      "会性能优化",
+      "能完成大数据项目"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-course-02",
+    "order": 2,
+    "slug": "Hadoop生态",
+    "title": "Hadoop 生态与大数据架构",
+    "description": "Hadoop体系、组件、架构选型。",
+    "estimatedHours": 8,
+    "difficulty": "easy",
+    "tags": [
+      "Hadoop 生态与大数据架构"
+    ],
+    "lessonIds": [
+      "sp-lesson-014",
+      "sp-lesson-015",
+      "sp-lesson-016",
+      "sp-lesson-017",
+      "sp-lesson-018",
+      "sp-lesson-019",
+      "sp-lesson-020",
+      "sp-lesson-021",
+      "sp-lesson-022",
+      "sp-lesson-023",
+      "sp-lesson-024",
+      "sp-lesson-025",
+      "sp-lesson-026"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解大数据架构",
+      "能用Hive/Spark",
+      "会性能优化",
+      "能完成大数据项目"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-course-03",
+    "order": 3,
+    "slug": "HDFS",
+    "title": "HDFS 分布式文件系统",
+    "description": "NameNode/DataNode、Block、副本机制。",
+    "estimatedHours": 8,
+    "difficulty": "medium",
+    "tags": [
+      "HDFS 分布式文件系统"
+    ],
+    "lessonIds": [
+      "sp-lesson-027",
+      "sp-lesson-028",
+      "sp-lesson-029",
+      "sp-lesson-030",
+      "sp-lesson-031",
+      "sp-lesson-032",
+      "sp-lesson-033",
+      "sp-lesson-034",
+      "sp-lesson-035",
+      "sp-lesson-036",
+      "sp-lesson-037",
+      "sp-lesson-038",
+      "sp-lesson-039"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解大数据架构",
+      "能用Hive/Spark",
+      "会性能优化",
+      "能完成大数据项目"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-course-04",
+    "order": 4,
+    "slug": "MapReduce",
+    "title": "MapReduce 编程思想",
+    "description": "Mapper/Reducer、Shuffle、YARN。",
+    "estimatedHours": 10,
+    "difficulty": "medium",
+    "tags": [
+      "MapReduce 编程思想"
+    ],
+    "lessonIds": [
+      "sp-lesson-040",
+      "sp-lesson-041",
+      "sp-lesson-042",
+      "sp-lesson-043",
+      "sp-lesson-044",
+      "sp-lesson-045",
+      "sp-lesson-046",
+      "sp-lesson-047",
+      "sp-lesson-048",
+      "sp-lesson-049",
+      "sp-lesson-050",
+      "sp-lesson-051",
+      "sp-lesson-052"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解大数据架构",
+      "能用Hive/Spark",
+      "会性能优化",
+      "能完成大数据项目"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-course-05",
+    "order": 5,
+    "slug": "Hive",
+    "title": "Hive 与数据仓库 SQL",
+    "description": "Hive SQL、分区表、分桶表、内外表。",
+    "estimatedHours": 10,
+    "difficulty": "medium",
+    "tags": [
+      "Hive 与数据仓库 SQL"
+    ],
+    "lessonIds": [
+      "sp-lesson-053",
+      "sp-lesson-054",
+      "sp-lesson-055",
+      "sp-lesson-056",
+      "sp-lesson-057",
+      "sp-lesson-058",
+      "sp-lesson-059",
+      "sp-lesson-060",
+      "sp-lesson-061",
+      "sp-lesson-062",
+      "sp-lesson-063",
+      "sp-lesson-064",
+      "sp-lesson-065"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解大数据架构",
+      "能用Hive/Spark",
+      "会性能优化",
+      "能完成大数据项目"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-course-06",
+    "order": 6,
+    "slug": "Spark入门",
+    "title": "Spark 入门与运行架构",
+    "description": "Spark架构、Driver/Executor、Cluster Manager。",
+    "estimatedHours": 8,
+    "difficulty": "hard",
+    "tags": [
+      "Spark 入门与运行架构"
+    ],
+    "lessonIds": [
+      "sp-lesson-066",
+      "sp-lesson-067",
+      "sp-lesson-068",
+      "sp-lesson-069",
+      "sp-lesson-070",
+      "sp-lesson-071",
+      "sp-lesson-072",
+      "sp-lesson-073",
+      "sp-lesson-074",
+      "sp-lesson-075",
+      "sp-lesson-076",
+      "sp-lesson-077",
+      "sp-lesson-078"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解大数据架构",
+      "能用Hive/Spark",
+      "会性能优化",
+      "能完成大数据项目"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-course-07",
+    "order": 7,
+    "slug": "RDD基础",
+    "title": "RDD 基础与转换行动算子",
+    "description": "RDD特性、Transformation、Action、DAG。",
+    "estimatedHours": 10,
+    "difficulty": "hard",
+    "tags": [
+      "RDD 基础与转换行动算子"
+    ],
+    "lessonIds": [
+      "sp-lesson-079",
+      "sp-lesson-080",
+      "sp-lesson-081",
+      "sp-lesson-082",
+      "sp-lesson-083",
+      "sp-lesson-084",
+      "sp-lesson-085",
+      "sp-lesson-086",
+      "sp-lesson-087",
+      "sp-lesson-088",
+      "sp-lesson-089",
+      "sp-lesson-090",
+      "sp-lesson-091"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解大数据架构",
+      "能用Hive/Spark",
+      "会性能优化",
+      "能完成大数据项目"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-course-08",
+    "order": 8,
+    "slug": "DataFrame",
+    "title": "DataFrame 与 Dataset 基础",
+    "description": "DataFrame API、Dataset、类型安全。",
+    "estimatedHours": 10,
+    "difficulty": "hard",
+    "tags": [
+      "DataFrame 与 Dataset 基础"
+    ],
+    "lessonIds": [
+      "sp-lesson-092",
+      "sp-lesson-093",
+      "sp-lesson-094",
+      "sp-lesson-095",
+      "sp-lesson-096",
+      "sp-lesson-097",
+      "sp-lesson-098",
+      "sp-lesson-099",
+      "sp-lesson-100",
+      "sp-lesson-101",
+      "sp-lesson-102",
+      "sp-lesson-103",
+      "sp-lesson-104"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解大数据架构",
+      "能用Hive/Spark",
+      "会性能优化",
+      "能完成大数据项目"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-course-09",
+    "order": 9,
+    "slug": "SparkSQL",
+    "title": "Spark SQL 查询与分析",
+    "description": "Spark SQL、UDF、SQL到DataFrame。",
+    "estimatedHours": 10,
+    "difficulty": "hard",
+    "tags": [
+      "Spark SQL 查询与分析"
+    ],
+    "lessonIds": [
+      "sp-lesson-105",
+      "sp-lesson-106",
+      "sp-lesson-107",
+      "sp-lesson-108",
+      "sp-lesson-109",
+      "sp-lesson-110",
+      "sp-lesson-111",
+      "sp-lesson-112",
+      "sp-lesson-113",
+      "sp-lesson-114",
+      "sp-lesson-115",
+      "sp-lesson-116",
+      "sp-lesson-117"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解大数据架构",
+      "能用Hive/Spark",
+      "会性能优化",
+      "能完成大数据项目"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-course-10",
+    "order": 10,
+    "slug": "Spark清洗",
+    "title": "Spark 数据清洗与批处理",
+    "description": "数据清洗ETL、批处理、日志分析。",
+    "estimatedHours": 10,
+    "difficulty": "hard",
+    "tags": [
+      "Spark 数据清洗与批处理"
+    ],
+    "lessonIds": [
+      "sp-lesson-118",
+      "sp-lesson-119",
+      "sp-lesson-120",
+      "sp-lesson-121",
+      "sp-lesson-122",
+      "sp-lesson-123",
+      "sp-lesson-124",
+      "sp-lesson-125",
+      "sp-lesson-126",
+      "sp-lesson-127",
+      "sp-lesson-128",
+      "sp-lesson-129",
+      "sp-lesson-130"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解大数据架构",
+      "能用Hive/Spark",
+      "会性能优化",
+      "能完成大数据项目"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-course-11",
+    "order": 11,
+    "slug": "性能优化",
+    "title": "分区、缓存与性能优化",
+    "description": "分区策略、缓存persist/cache、broadcast join、数据倾斜。",
+    "estimatedHours": 10,
+    "difficulty": "hard",
+    "tags": [
+      "分区、缓存与性能优化"
+    ],
+    "lessonIds": [
+      "sp-lesson-131",
+      "sp-lesson-132",
+      "sp-lesson-133",
+      "sp-lesson-134",
+      "sp-lesson-135",
+      "sp-lesson-136",
+      "sp-lesson-137",
+      "sp-lesson-138",
+      "sp-lesson-139",
+      "sp-lesson-140",
+      "sp-lesson-141",
+      "sp-lesson-142",
+      "sp-lesson-143"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解大数据架构",
+      "能用Hive/Spark",
+      "会性能优化",
+      "能完成大数据项目"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-course-12",
+    "order": 12,
+    "slug": "调度资源",
+    "title": "大数据任务调度与资源管理",
+    "description": "YARN资源管理、任务调度、动态分配。",
+    "estimatedHours": 8,
+    "difficulty": "hard",
+    "tags": [
+      "大数据任务调度与资源管理"
+    ],
+    "lessonIds": [
+      "sp-lesson-144",
+      "sp-lesson-145",
+      "sp-lesson-146",
+      "sp-lesson-147",
+      "sp-lesson-148",
+      "sp-lesson-149",
+      "sp-lesson-150",
+      "sp-lesson-151",
+      "sp-lesson-152",
+      "sp-lesson-153",
+      "sp-lesson-154",
+      "sp-lesson-155",
+      "sp-lesson-156"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解大数据架构",
+      "能用Hive/Spark",
+      "会性能优化",
+      "能完成大数据项目"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-course-13",
+    "order": 13,
+    "slug": "大数据项目",
+    "title": "大数据项目实战",
+    "description": "日志分析、用户行为、订单数据处理项目。",
+    "estimatedHours": 10,
+    "difficulty": "hard",
+    "tags": [
+      "大数据项目实战"
+    ],
+    "lessonIds": [
+      "sp-lesson-157",
+      "sp-lesson-158",
+      "sp-lesson-159",
+      "sp-lesson-160",
+      "sp-lesson-161",
+      "sp-lesson-162",
+      "sp-lesson-163",
+      "sp-lesson-164",
+      "sp-lesson-165",
+      "sp-lesson-166",
+      "sp-lesson-167",
+      "sp-lesson-168",
+      "sp-lesson-169"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解大数据架构",
+      "能用Hive/Spark",
+      "会性能优化",
+      "能完成大数据项目"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sp-course-14",
+    "order": 14,
+    "slug": "大数据面试",
+    "title": "大数据面试与学习路线进阶",
+    "description": "大数据面试题、场景题、源码理解。",
+    "estimatedHours": 8,
+    "difficulty": "hard",
+    "tags": [
+      "大数据面试与学习路线进阶"
+    ],
+    "lessonIds": [
+      "sp-lesson-170",
+      "sp-lesson-171",
+      "sp-lesson-172",
+      "sp-lesson-173",
+      "sp-lesson-174",
+      "sp-lesson-175",
+      "sp-lesson-176",
+      "sp-lesson-177",
+      "sp-lesson-178",
+      "sp-lesson-179",
+      "sp-lesson-180",
+      "sp-lesson-181",
+      "sp-lesson-182"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解大数据架构",
+      "能用Hive/Spark",
+      "会性能优化",
+      "能完成大数据项目"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  }
+]
