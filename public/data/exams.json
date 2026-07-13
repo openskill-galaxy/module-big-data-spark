@@ -36,7 +36,11 @@
     "tags": [
       "BigData入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "BigData入门基础",
+    "description": "BigData入门基础",
+    "slug": "bigdata入门基础"
   },
   {
     "id": "sp-exam-02",
@@ -75,7 +79,11 @@
     "tags": [
       "Hadoop生态"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Hadoop生态基础",
+    "description": "Hadoop生态基础",
+    "slug": "hadoop生态基础"
   },
   {
     "id": "sp-exam-03",
@@ -114,7 +122,11 @@
     "tags": [
       "HDFS"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "HDFS基础",
+    "description": "HDFS基础",
+    "slug": "hdfs基础"
   },
   {
     "id": "sp-exam-04",
@@ -153,7 +165,11 @@
     "tags": [
       "MapReduce"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "MapReduce基础",
+    "description": "MapReduce基础",
+    "slug": "mapreduce基础"
   },
   {
     "id": "sp-exam-05",
@@ -192,7 +208,11 @@
     "tags": [
       "Hive"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Hive基础",
+    "description": "Hive基础",
+    "slug": "hive基础"
   },
   {
     "id": "sp-exam-06",
@@ -231,7 +251,11 @@
     "tags": [
       "Spark入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Spark入门基础",
+    "description": "Spark入门基础",
+    "slug": "spark入门基础"
   },
   {
     "id": "sp-exam-07",
@@ -270,7 +294,11 @@
     "tags": [
       "RDD基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "RDD基础基础",
+    "description": "RDD基础基础",
+    "slug": "rdd基础基础"
   },
   {
     "id": "sp-exam-08",
@@ -309,7 +337,11 @@
     "tags": [
       "DataFrame"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DataFrame基础",
+    "description": "DataFrame基础",
+    "slug": "dataframe基础"
   },
   {
     "id": "sp-exam-09",
@@ -348,7 +380,11 @@
     "tags": [
       "SparkSQL"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "SparkSQL基础",
+    "description": "SparkSQL基础",
+    "slug": "sparksql基础"
   },
   {
     "id": "sp-exam-10",
@@ -387,7 +423,11 @@
     "tags": [
       "Spark清洗"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Spark清洗基础",
+    "description": "Spark清洗基础",
+    "slug": "spark清洗基础"
   },
   {
     "id": "sp-exam-11",
@@ -426,7 +466,11 @@
     "tags": [
       "性能优化"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "性能优化基础",
+    "description": "性能优化基础",
+    "slug": "性能优化基础"
   },
   {
     "id": "sp-exam-12",
@@ -465,7 +509,11 @@
     "tags": [
       "调度资源"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "调度资源基础",
+    "description": "调度资源基础",
+    "slug": "调度资源基础"
   },
   {
     "id": "sp-exam-13",
@@ -504,7 +552,11 @@
     "tags": [
       "大数据项目"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "大数据项目基础",
+    "description": "大数据项目基础",
+    "slug": "大数据项目基础"
   },
   {
     "id": "sp-exam-14",
@@ -543,7 +595,11 @@
     "tags": [
       "大数据面试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "大数据面试基础",
+    "description": "大数据面试基础",
+    "slug": "大数据面试基础"
   },
   {
     "id": "sp-exam-15",
@@ -582,7 +638,11 @@
     "tags": [
       "BigData入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "BigData入门基础",
+    "description": "BigData入门基础",
+    "slug": "bigdata入门基础"
   },
   {
     "id": "sp-exam-16",
@@ -621,7 +681,11 @@
     "tags": [
       "Hadoop生态"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Hadoop生态基础",
+    "description": "Hadoop生态基础",
+    "slug": "hadoop生态基础"
   },
   {
     "id": "sp-exam-17",
@@ -660,7 +724,11 @@
     "tags": [
       "HDFS"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "HDFS基础",
+    "description": "HDFS基础",
+    "slug": "hdfs基础"
   },
   {
     "id": "sp-exam-18",
@@ -699,7 +767,11 @@
     "tags": [
       "MapReduce"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "MapReduce基础",
+    "description": "MapReduce基础",
+    "slug": "mapreduce基础"
   },
   {
     "id": "sp-exam-19",
@@ -738,7 +810,11 @@
     "tags": [
       "Hive"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Hive基础",
+    "description": "Hive基础",
+    "slug": "hive基础"
   },
   {
     "id": "sp-exam-20",
@@ -777,7 +853,11 @@
     "tags": [
       "Spark入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Spark入门基础",
+    "description": "Spark入门基础",
+    "slug": "spark入门基础"
   },
   {
     "id": "sp-exam-21",
@@ -816,7 +896,11 @@
     "tags": [
       "RDD基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "RDD基础基础",
+    "description": "RDD基础基础",
+    "slug": "rdd基础基础"
   },
   {
     "id": "sp-exam-22",
@@ -855,7 +939,11 @@
     "tags": [
       "DataFrame"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DataFrame基础",
+    "description": "DataFrame基础",
+    "slug": "dataframe基础"
   },
   {
     "id": "sp-exam-23",
@@ -894,7 +982,11 @@
     "tags": [
       "SparkSQL"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "SparkSQL基础",
+    "description": "SparkSQL基础",
+    "slug": "sparksql基础"
   },
   {
     "id": "sp-exam-24",
@@ -933,7 +1025,11 @@
     "tags": [
       "Spark清洗"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Spark清洗基础",
+    "description": "Spark清洗基础",
+    "slug": "spark清洗基础"
   },
   {
     "id": "sp-exam-25",
@@ -972,7 +1068,11 @@
     "tags": [
       "性能优化"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "性能优化基础",
+    "description": "性能优化基础",
+    "slug": "性能优化基础"
   },
   {
     "id": "sp-exam-26",
@@ -1011,7 +1111,11 @@
     "tags": [
       "调度资源"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "调度资源基础",
+    "description": "调度资源基础",
+    "slug": "调度资源基础"
   },
   {
     "id": "sp-exam-27",
@@ -1050,7 +1154,11 @@
     "tags": [
       "大数据项目"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "大数据项目基础",
+    "description": "大数据项目基础",
+    "slug": "大数据项目基础"
   },
   {
     "id": "sp-exam-28",
@@ -1089,7 +1197,11 @@
     "tags": [
       "大数据面试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "大数据面试基础",
+    "description": "大数据面试基础",
+    "slug": "大数据面试基础"
   },
   {
     "id": "sp-exam-29",
@@ -1128,7 +1240,11 @@
     "tags": [
       "BigData入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "BigData入门基础",
+    "description": "BigData入门基础",
+    "slug": "bigdata入门基础"
   },
   {
     "id": "sp-exam-30",
@@ -1167,7 +1283,11 @@
     "tags": [
       "Hadoop生态"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Hadoop生态基础",
+    "description": "Hadoop生态基础",
+    "slug": "hadoop生态基础"
   },
   {
     "id": "sp-exam-31",
@@ -1206,7 +1326,11 @@
     "tags": [
       "HDFS"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "HDFS基础",
+    "description": "HDFS基础",
+    "slug": "hdfs基础"
   },
   {
     "id": "sp-exam-32",
@@ -1245,7 +1369,11 @@
     "tags": [
       "MapReduce"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "MapReduce基础",
+    "description": "MapReduce基础",
+    "slug": "mapreduce基础"
   },
   {
     "id": "sp-exam-33",
@@ -1284,7 +1412,11 @@
     "tags": [
       "Hive"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Hive基础",
+    "description": "Hive基础",
+    "slug": "hive基础"
   },
   {
     "id": "sp-exam-34",
@@ -1323,7 +1455,11 @@
     "tags": [
       "Spark入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Spark入门基础",
+    "description": "Spark入门基础",
+    "slug": "spark入门基础"
   },
   {
     "id": "sp-exam-35",
@@ -1362,7 +1498,11 @@
     "tags": [
       "RDD基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "RDD基础基础",
+    "description": "RDD基础基础",
+    "slug": "rdd基础基础"
   },
   {
     "id": "sp-exam-36",
@@ -1401,7 +1541,11 @@
     "tags": [
       "DataFrame"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DataFrame进阶",
+    "description": "DataFrame进阶",
+    "slug": "dataframe进阶"
   },
   {
     "id": "sp-exam-37",
@@ -1440,7 +1584,11 @@
     "tags": [
       "SparkSQL"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "SparkSQL进阶",
+    "description": "SparkSQL进阶",
+    "slug": "sparksql进阶"
   },
   {
     "id": "sp-exam-38",
@@ -1479,7 +1627,11 @@
     "tags": [
       "Spark清洗"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Spark清洗进阶",
+    "description": "Spark清洗进阶",
+    "slug": "spark清洗进阶"
   },
   {
     "id": "sp-exam-39",
@@ -1518,7 +1670,11 @@
     "tags": [
       "性能优化"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "性能优化进阶",
+    "description": "性能优化进阶",
+    "slug": "性能优化进阶"
   },
   {
     "id": "sp-exam-40",
@@ -1557,7 +1713,11 @@
     "tags": [
       "调度资源"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "调度资源进阶",
+    "description": "调度资源进阶",
+    "slug": "调度资源进阶"
   },
   {
     "id": "sp-exam-41",
@@ -1596,7 +1756,11 @@
     "tags": [
       "大数据项目"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "大数据项目进阶",
+    "description": "大数据项目进阶",
+    "slug": "大数据项目进阶"
   },
   {
     "id": "sp-exam-42",
@@ -1635,7 +1799,11 @@
     "tags": [
       "大数据面试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "大数据面试进阶",
+    "description": "大数据面试进阶",
+    "slug": "大数据面试进阶"
   },
   {
     "id": "sp-exam-43",
@@ -1674,7 +1842,11 @@
     "tags": [
       "BigData入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "BigData入门进阶",
+    "description": "BigData入门进阶",
+    "slug": "bigdata入门进阶"
   },
   {
     "id": "sp-exam-44",
@@ -1713,7 +1885,11 @@
     "tags": [
       "Hadoop生态"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Hadoop生态进阶",
+    "description": "Hadoop生态进阶",
+    "slug": "hadoop生态进阶"
   },
   {
     "id": "sp-exam-45",
@@ -1752,7 +1928,11 @@
     "tags": [
       "HDFS"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "HDFS进阶",
+    "description": "HDFS进阶",
+    "slug": "hdfs进阶"
   },
   {
     "id": "sp-exam-46",
@@ -1791,7 +1971,11 @@
     "tags": [
       "MapReduce"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "MapReduce进阶",
+    "description": "MapReduce进阶",
+    "slug": "mapreduce进阶"
   },
   {
     "id": "sp-exam-47",
@@ -1830,7 +2014,11 @@
     "tags": [
       "Hive"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Hive进阶",
+    "description": "Hive进阶",
+    "slug": "hive进阶"
   },
   {
     "id": "sp-exam-48",
@@ -1869,7 +2057,11 @@
     "tags": [
       "Spark入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Spark入门进阶",
+    "description": "Spark入门进阶",
+    "slug": "spark入门进阶"
   },
   {
     "id": "sp-exam-49",
@@ -1908,7 +2100,11 @@
     "tags": [
       "RDD基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "RDD基础进阶",
+    "description": "RDD基础进阶",
+    "slug": "rdd基础进阶"
   },
   {
     "id": "sp-exam-50",
@@ -1947,7 +2143,11 @@
     "tags": [
       "DataFrame"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DataFrame进阶",
+    "description": "DataFrame进阶",
+    "slug": "dataframe进阶"
   },
   {
     "id": "sp-exam-51",
@@ -1986,7 +2186,11 @@
     "tags": [
       "SparkSQL"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "SparkSQL进阶",
+    "description": "SparkSQL进阶",
+    "slug": "sparksql进阶"
   },
   {
     "id": "sp-exam-52",
@@ -2025,7 +2229,11 @@
     "tags": [
       "Spark清洗"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Spark清洗进阶",
+    "description": "Spark清洗进阶",
+    "slug": "spark清洗进阶"
   },
   {
     "id": "sp-exam-53",
@@ -2064,7 +2272,11 @@
     "tags": [
       "性能优化"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "性能优化进阶",
+    "description": "性能优化进阶",
+    "slug": "性能优化进阶"
   },
   {
     "id": "sp-exam-54",
@@ -2103,7 +2315,11 @@
     "tags": [
       "调度资源"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "调度资源进阶",
+    "description": "调度资源进阶",
+    "slug": "调度资源进阶"
   },
   {
     "id": "sp-exam-55",
@@ -2142,7 +2358,11 @@
     "tags": [
       "大数据项目"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "大数据项目进阶",
+    "description": "大数据项目进阶",
+    "slug": "大数据项目进阶"
   },
   {
     "id": "sp-exam-56",
@@ -2181,7 +2401,11 @@
     "tags": [
       "大数据面试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "大数据面试进阶",
+    "description": "大数据面试进阶",
+    "slug": "大数据面试进阶"
   },
   {
     "id": "sp-exam-57",
@@ -2220,7 +2444,11 @@
     "tags": [
       "BigData入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "BigData入门进阶",
+    "description": "BigData入门进阶",
+    "slug": "bigdata入门进阶"
   },
   {
     "id": "sp-exam-58",
@@ -2259,7 +2487,11 @@
     "tags": [
       "Hadoop生态"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Hadoop生态进阶",
+    "description": "Hadoop生态进阶",
+    "slug": "hadoop生态进阶"
   },
   {
     "id": "sp-exam-59",
@@ -2298,7 +2530,11 @@
     "tags": [
       "HDFS"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "HDFS进阶",
+    "description": "HDFS进阶",
+    "slug": "hdfs进阶"
   },
   {
     "id": "sp-exam-60",
@@ -2337,7 +2573,11 @@
     "tags": [
       "MapReduce"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "MapReduce进阶",
+    "description": "MapReduce进阶",
+    "slug": "mapreduce进阶"
   },
   {
     "id": "sp-exam-61",
@@ -2376,7 +2616,11 @@
     "tags": [
       "Hive"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Hive进阶",
+    "description": "Hive进阶",
+    "slug": "hive进阶"
   },
   {
     "id": "sp-exam-62",
@@ -2415,7 +2659,11 @@
     "tags": [
       "Spark入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Spark入门进阶",
+    "description": "Spark入门进阶",
+    "slug": "spark入门进阶"
   },
   {
     "id": "sp-exam-63",
@@ -2454,7 +2702,11 @@
     "tags": [
       "RDD基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "RDD基础进阶",
+    "description": "RDD基础进阶",
+    "slug": "rdd基础进阶"
   },
   {
     "id": "sp-exam-64",
@@ -2493,7 +2745,11 @@
     "tags": [
       "DataFrame"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DataFrame进阶",
+    "description": "DataFrame进阶",
+    "slug": "dataframe进阶"
   },
   {
     "id": "sp-exam-65",
@@ -2532,7 +2788,11 @@
     "tags": [
       "SparkSQL"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "SparkSQL进阶",
+    "description": "SparkSQL进阶",
+    "slug": "sparksql进阶"
   },
   {
     "id": "sp-exam-66",
@@ -2571,7 +2831,11 @@
     "tags": [
       "Spark清洗"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Spark清洗综合",
+    "description": "Spark清洗综合",
+    "slug": "spark清洗综合"
   },
   {
     "id": "sp-exam-67",
@@ -2610,7 +2874,11 @@
     "tags": [
       "性能优化"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "性能优化综合",
+    "description": "性能优化综合",
+    "slug": "性能优化综合"
   },
   {
     "id": "sp-exam-68",
@@ -2649,7 +2917,11 @@
     "tags": [
       "调度资源"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "调度资源综合",
+    "description": "调度资源综合",
+    "slug": "调度资源综合"
   },
   {
     "id": "sp-exam-69",
@@ -2688,7 +2960,11 @@
     "tags": [
       "大数据项目"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "大数据项目综合",
+    "description": "大数据项目综合",
+    "slug": "大数据项目综合"
   },
   {
     "id": "sp-exam-70",
@@ -2727,7 +3003,11 @@
     "tags": [
       "大数据面试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "大数据面试综合",
+    "description": "大数据面试综合",
+    "slug": "大数据面试综合"
   },
   {
     "id": "sp-exam-71",
@@ -2766,7 +3046,11 @@
     "tags": [
       "BigData入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "BigData入门综合",
+    "description": "BigData入门综合",
+    "slug": "bigdata入门综合"
   },
   {
     "id": "sp-exam-72",
@@ -2805,7 +3089,11 @@
     "tags": [
       "Hadoop生态"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Hadoop生态综合",
+    "description": "Hadoop生态综合",
+    "slug": "hadoop生态综合"
   },
   {
     "id": "sp-exam-73",
@@ -2844,7 +3132,11 @@
     "tags": [
       "HDFS"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "HDFS综合",
+    "description": "HDFS综合",
+    "slug": "hdfs综合"
   },
   {
     "id": "sp-exam-74",
@@ -2883,7 +3175,11 @@
     "tags": [
       "MapReduce"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "MapReduce综合",
+    "description": "MapReduce综合",
+    "slug": "mapreduce综合"
   },
   {
     "id": "sp-exam-75",
@@ -2922,7 +3218,11 @@
     "tags": [
       "Hive"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Hive综合",
+    "description": "Hive综合",
+    "slug": "hive综合"
   },
   {
     "id": "sp-exam-76",
@@ -2961,7 +3261,11 @@
     "tags": [
       "Spark入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Spark入门综合",
+    "description": "Spark入门综合",
+    "slug": "spark入门综合"
   },
   {
     "id": "sp-exam-77",
@@ -3000,7 +3304,11 @@
     "tags": [
       "RDD基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "RDD基础综合",
+    "description": "RDD基础综合",
+    "slug": "rdd基础综合"
   },
   {
     "id": "sp-exam-78",
@@ -3039,7 +3347,11 @@
     "tags": [
       "DataFrame"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DataFrame综合",
+    "description": "DataFrame综合",
+    "slug": "dataframe综合"
   },
   {
     "id": "sp-exam-79",
@@ -3078,7 +3390,11 @@
     "tags": [
       "SparkSQL"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "SparkSQL综合",
+    "description": "SparkSQL综合",
+    "slug": "sparksql综合"
   },
   {
     "id": "sp-exam-80",
@@ -3117,7 +3433,11 @@
     "tags": [
       "Spark清洗"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Spark清洗综合",
+    "description": "Spark清洗综合",
+    "slug": "spark清洗综合"
   },
   {
     "id": "sp-exam-81",
@@ -3156,7 +3476,11 @@
     "tags": [
       "性能优化"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "性能优化综合",
+    "description": "性能优化综合",
+    "slug": "性能优化综合"
   },
   {
     "id": "sp-exam-82",
@@ -3195,7 +3519,11 @@
     "tags": [
       "调度资源"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "调度资源综合",
+    "description": "调度资源综合",
+    "slug": "调度资源综合"
   },
   {
     "id": "sp-exam-83",
@@ -3234,7 +3562,11 @@
     "tags": [
       "大数据项目"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "大数据项目综合",
+    "description": "大数据项目综合",
+    "slug": "大数据项目综合"
   },
   {
     "id": "sp-exam-84",
@@ -3273,7 +3605,11 @@
     "tags": [
       "大数据面试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "大数据面试综合",
+    "description": "大数据面试综合",
+    "slug": "大数据面试综合"
   },
   {
     "id": "sp-exam-85",
@@ -3312,7 +3648,11 @@
     "tags": [
       "BigData入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "BigData入门综合",
+    "description": "BigData入门综合",
+    "slug": "bigdata入门综合"
   },
   {
     "id": "sp-exam-86",
@@ -3351,7 +3691,11 @@
     "tags": [
       "Hadoop生态"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Hadoop生态综合",
+    "description": "Hadoop生态综合",
+    "slug": "hadoop生态综合"
   },
   {
     "id": "sp-exam-87",
@@ -3390,7 +3734,11 @@
     "tags": [
       "HDFS"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "HDFS综合",
+    "description": "HDFS综合",
+    "slug": "hdfs综合"
   },
   {
     "id": "sp-exam-88",
@@ -3429,7 +3777,11 @@
     "tags": [
       "MapReduce"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "MapReduce综合",
+    "description": "MapReduce综合",
+    "slug": "mapreduce综合"
   },
   {
     "id": "sp-exam-89",
@@ -3468,7 +3820,11 @@
     "tags": [
       "Hive"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Hive综合",
+    "description": "Hive综合",
+    "slug": "hive综合"
   },
   {
     "id": "sp-exam-90",
@@ -3507,7 +3863,11 @@
     "tags": [
       "Spark入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Spark入门综合",
+    "description": "Spark入门综合",
+    "slug": "spark入门综合"
   },
   {
     "id": "sp-exam-91",
@@ -3546,7 +3906,11 @@
     "tags": [
       "RDD基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "RDD基础综合",
+    "description": "RDD基础综合",
+    "slug": "rdd基础综合"
   },
   {
     "id": "sp-exam-92",
@@ -3585,7 +3949,11 @@
     "tags": [
       "DataFrame"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DataFrame综合",
+    "description": "DataFrame综合",
+    "slug": "dataframe综合"
   },
   {
     "id": "sp-exam-93",
@@ -3624,7 +3992,11 @@
     "tags": [
       "SparkSQL"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "SparkSQL综合",
+    "description": "SparkSQL综合",
+    "slug": "sparksql综合"
   },
   {
     "id": "sp-exam-94",
@@ -3663,7 +4035,11 @@
     "tags": [
       "Spark清洗"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Spark清洗综合",
+    "description": "Spark清洗综合",
+    "slug": "spark清洗综合"
   },
   {
     "id": "sp-exam-95",
@@ -3702,7 +4078,11 @@
     "tags": [
       "性能优化"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "性能优化综合",
+    "description": "性能优化综合",
+    "slug": "性能优化综合"
   },
   {
     "id": "sp-exam-96",
@@ -3741,7 +4121,11 @@
     "tags": [
       "调度资源"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "调度资源综合",
+    "description": "调度资源综合",
+    "slug": "调度资源综合"
   },
   {
     "id": "sp-exam-97",
@@ -3780,7 +4164,11 @@
     "tags": [
       "大数据项目"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "大数据项目综合",
+    "description": "大数据项目综合",
+    "slug": "大数据项目综合"
   },
   {
     "id": "sp-exam-98",
@@ -3819,7 +4207,11 @@
     "tags": [
       "大数据面试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "大数据面试综合",
+    "description": "大数据面试综合",
+    "slug": "大数据面试综合"
   },
   {
     "id": "sp-exam-99",
@@ -3858,7 +4250,11 @@
     "tags": [
       "BigData入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "BigData入门综合",
+    "description": "BigData入门综合",
+    "slug": "bigdata入门综合"
   },
   {
     "id": "sp-exam-100",
@@ -3897,6 +4293,10 @@
     "tags": [
       "Hadoop生态"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Hadoop生态综合",
+    "description": "Hadoop生态综合",
+    "slug": "hadoop生态综合"
   }
 ]
